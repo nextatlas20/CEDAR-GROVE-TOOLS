@@ -1,0 +1,7 @@
+asset_id	asset_name	zone	replacement_units	selected_return_id	returned_on	condition	status
+A-104	Cordless Drill	East Annex	4	R-04	2026-04-16	DAMAGED	REPAIR
+A-118	Wood Chisel Set	North Room	2	R-02	2026-04-07	DAMAGED	REPAIR
+A-203	Folding Ladder	East Annex	6	R-03	2026-04-09	MISSING	LOST
+A-219	Pipe Wrench	South Shed	5	R-06	2026-04-12	MISSING	LOST
+A-307	Orbital Sander	North Room	3	NONE	NONE	NONE	UNASSESSED
+A-322	Tile Cutter	South Shed	7	R-11	2026-04-23	MISSING	LOST
